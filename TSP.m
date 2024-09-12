@@ -6,7 +6,7 @@
 % Implementirano je sest razlicitih algoritama krizanja te je moguce
 % pokrenuti jedan ili vise njih u svrhu usporedbe.
 % 
-% potrebne datoteke: MartinMartinicTSP.m, OX.m, PMX.m, ERX.m, CX.m, AEX.m,
+% potrebne datoteke: TSP.m, OX.m, PMX.m, ERX.m, CX.m, AEX.m,
 % HGreX.m, TSPlength.m, findNeighbour.m, "koordinate gradova u txt obliku"
 % napomena: sve sto korisnik treba/smije mjenjati se nalazi unutar podrucja
 % RUCNO UNESENI PARAMETRI koje se nalazi od linije: 18 do linije: 38
