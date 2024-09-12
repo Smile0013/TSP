@@ -35,7 +35,7 @@ mut_chance = 0.02;  % vjerojatnost da dva susjedna gena mutiraju (0-1)
 % 5:AEX         |spor                    |srednje malo
 % 6:HGreX       |jako spor               |izuzetno malo
 % popis algoritama krizanja koj zelite izvrsiti
-Xtype_list = [6];
+Xtype_list = [1, 2, 3, 4, 5, 6];
 %% ________________________________________________________________________
 %
 %
