@@ -16,8 +16,8 @@ clear all
 clc
 
 %% _________________________RUCNO UNESENI PARAMETRI________________________
-% ucitavanje koordinati u X, Y koordinatnom sustavu gradova i zdatoteke
-CityCoordinateFile = 'udaljenostSesnaesterokut.txt';
+% ucitavanje koordinati u X, Y koordinatnom sustavu gradova iz datoteke
+CityCoordinateFile = 'koordinate.txt';
 
 numOfMem = 21;              % broj clanoca unutar populacije
 numOfGenerations = 100;    % broj iteracija
